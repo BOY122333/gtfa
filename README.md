@@ -20,4 +20,4 @@ python main.py
 
 ---
 
-Tools by Flood hunting! | [My contact](ngoprek.xyz/contact) 
+Tools by Flood hunting! | [My contact](https://ngoprek.xyz/contact) 
